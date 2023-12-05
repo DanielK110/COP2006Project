@@ -1,0 +1,3 @@
+C:/C Programs/COP2006PROJECT/cmake-build-debug/CMakeFiles/COP2006PROJECT.dir
+C:/C Programs/COP2006PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C Programs/COP2006PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
