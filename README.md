@@ -1,1 +1,16 @@
-[![OpenSSF Scorecard](htt‌ps://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)](htt‌ps://scorecard.dev/viewer/?uri=github.com/ossf/scorecard-action)
+
+Description: A text based adventure game that was originally made as a project for a programming class.
+
+Badges: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10310/badge)](https://www.bestpractices.dev/projects/10310)
+
+How to Obtain Project File
+
+Navigate to the desired directory:
+cd path/to/folder
+
+Clone the repository:
+
+
+Reporting an Issue: Bugs and other software issues can be reported on the Issues tab of this github repository.
+
+Contributions: If you wish to help out with the development of this project, please be sure to submit a pull request
