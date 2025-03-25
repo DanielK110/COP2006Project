@@ -2,6 +2,7 @@
 Description: A text based adventure game that was originally made as a project for a programming class.
 
 Badges: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10310/badge)](https://www.bestpractices.dev/projects/10310)
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/DanielK110/COP2006Project.git/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/DanielK110/COP2006Project.git]
 
 How to Obtain Project File
 
