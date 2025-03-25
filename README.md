@@ -9,7 +9,7 @@ Navigate to the desired directory:
 cd path/to/folder
 
 Clone the repository:
-
+https://github.com/DanielK110/COP2006Project.git
 
 Reporting an Issue: Bugs and other software issues can be reported on the Issues tab of this github repository.
 
