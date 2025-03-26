@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+
 Description: A text based adventure game that was originally made as a project for a programming class.
 
 Badges: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10310/badge)](https://www.bestpractices.dev/projects/10310/badge?cache=0)
