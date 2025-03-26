@@ -15,3 +15,5 @@ https://github.com/DanielK110/COP2006Project.git
 Reporting an Issue: Bugs and other software issues can be reported on the Issues tab of this github repository.
 
 Contributions: If you wish to help out with the development of this project, please be sure to submit a pull request
+Requirements for acceptable contiubtions:
+Should be written in suitable C++ code, as according to https://google.github.io/styleguide/cppguide.html
